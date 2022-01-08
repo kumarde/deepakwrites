@@ -5,12 +5,13 @@ description = "About me"
 
 <h2> HELLO! </h2> 
 
-I'm a playwright, composer, lyricist, and researcher based in the Bay Area, CA. 
+I'm a playwright, composer, lyricist, and researcher based in the Bay Area, CA.
 My work most often deals with Asian-Americans grappling with the messiness of
-their identities as they relate to their unique American experiences.
-
-I'm also a technologist and computing researcher, and am intersested in
-building new theater experiences that mesh with technology. 
+their identities as they relate to their unique American experiences. I'm also
+a technologist and computing researcher, and am intersested in building new
+theater experiences that mesh with technology. I have worked with Underscore
+Theatre Company in Chicago, the National Asian American Theatre Compay (NAATCO)
+in NYC, and Shotgun Players in Berkeley, CA.
 
 <br>
 
