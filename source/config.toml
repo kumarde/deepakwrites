@@ -22,7 +22,7 @@ enableRobotsTXT = true
 [params]
 title = "Deepak Kumar"
 author = "Deepak Kumar"
-description = "Hi! I'm a playwright and composer based in the Bay Area."
 profilePicture = "images/headshot.png"
 doNotLoadAnimations = true
 contentratio = 0.6
+displayMode = "light"

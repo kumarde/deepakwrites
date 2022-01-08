@@ -64,7 +64,7 @@ body {
 p {
   line-height: 1.9em;
   font-weight: 400;
-  font-size: 1.4rem;
+  font-size: 1.5rem;
 }
 
 a {
@@ -1208,7 +1208,6 @@ a.btn {
   }
 
   .sidebar .logo-title .title img {
-    width: 100px;
     height: 100px;
   }
 
