@@ -19,8 +19,4 @@ and am intersested in building new theater experiences with technology.
 - House of India
 - Responsible Disclosure
 
-<h3> PROJECTS </h3>
-
-- Narrative
-
 If you've come looking for my <b>academic computing research</b>, go [here.]("https://www.kumarde.com") 
