@@ -20,9 +20,26 @@ enableRobotsTXT = true
 
 
 [params]
+displayMode = "light"
 title = "Deepak Kumar"
 author = "Deepak Kumar"
 profilePicture = "images/headshot.png"
 doNotLoadAnimations = true
 contentratio = 0.6
-displayMode = "light"
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[params.socialIcons]]
+icon = "fab fa-instagram"
+title = "Instagram"
+url = "https://www.instagram.com/_kumarde"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://www.twitter.com/_kumarde"
+
+[[params.socialIcons]]
+icon = "fab fa-soundcloud"
+title = "Soundcloud"
+url = "https://soundcloud.com/kumarde"
