@@ -27,6 +27,12 @@ in NYC, and Shotgun Players in Berkeley, CA.
 - <a href="https://newplayexchange.org/plays/911760/newtons-third-law" target="_blank">Newton's Third Law</a>
 - <a href="https://newplayexchange.org/plays/879662/crush" target="_blank">Crush</a>
 
+<h3> FILM </h3>
+
+- <a href="https://www.youtube.com/watch?v=WIfOAzYZO8Q" target="_blank">Central Student Government (Webseries Pilot) </a>
+- <a href="https://kumarde.com/scripts/the_order.pdf" target="_blank"> The Order (Sitcom Pilot) </a>
+- <a href="https://kumarde.com/scripts/brown.pdf" target="_blank"> BROWN (Sitcom Pilot) </a>
+
 <h3> AWARDS </h3>
 
 - Baked! The Musical
