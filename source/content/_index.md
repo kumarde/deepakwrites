@@ -20,7 +20,6 @@ Berkeley, CA.
 - <a href="https://bakedthemusical.com" target="_blank">Baked! The Musical</a>
 - <a href="https://newplayexchange.org/plays/1586609/house-india" target="_blank">House of India</a>
 - Again? (new musical, in-development)
-- Responsible Disclosure (new play, in-development)
 
 <h3> 10-MINUTE PLAYS </h3>
 
