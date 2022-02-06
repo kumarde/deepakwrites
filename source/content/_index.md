@@ -21,7 +21,7 @@ Berkeley, CA.
 - <a href="https://newplayexchange.org/plays/1586609/house-india" target="_blank">House of India</a>
 - Again? (new musical, in-development)
 
-<h3> 10-MINUTE PLAYS </h3>
+<h3> SHORTER SHOWS </h3>
 
 - <a href="https://newplayexchange.org/plays/911760/newtons-third-law" target="_blank">Newton's Third Law</a>
 - <a href="https://newplayexchange.org/plays/879662/crush" target="_blank">Crush</a>
