@@ -25,6 +25,7 @@ Berkeley, CA.
 
 - <a href="https://newplayexchange.org/plays/911760/newtons-third-law" target="_blank">Newton's Third Law</a>
 - <a href="https://newplayexchange.org/plays/879662/crush" target="_blank">Crush</a>
+- Playing Ourselves, 15-minute musical on commission by the <a href="https://mtf.nyc" target="_blank">Musical Theatre Factory</a>
 
 <h3> FILM </h3>
 
