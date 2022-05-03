@@ -40,4 +40,7 @@ Berkeley, CA.
     - 2020 NYMF Finalist
     - 2020 RAVE Selection
 
+- House of India
+    - Semi-Finalist at the Bay Area Playwrights Festival
+
 If you've come looking for my <b>academic computing research</b>, go <a href="https://kumarde.com" target="_blank">here.</a>
