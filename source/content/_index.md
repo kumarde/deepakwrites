@@ -10,8 +10,9 @@ My work most often deals with Asian-Americans grappling with the messiness of
 their identities as they relate to their unique American experiences. I'm also
 a technologist and am interested in building new theater experiences that mesh
 with technology. I have worked with Underscore Theatre Company in Chicago, the
-National Asian American Theatre Company (NAATCO) in NYC, and Shotgun Players in
-Berkeley, CA.
+National Asian American Theatre Company (NAATCO), Musical Theatre Factory, and
+PACE University in NYC, Faultline Theatre in San Francisco, and Shotgun Players
+in Berkeley, CA.
 
 <br>
 
