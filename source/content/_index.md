@@ -34,14 +34,13 @@ Berkeley, CA.
 - <a href="https://kumarde.com/scripts/brown.pdf" target="_blank"> BROWN (Sitcom Pilot) </a>
 
 <h3> AWARDS </h3>
-- MacDowell Colony Fellow 2022
 
+- MacDowell Colony Fellow 2022
 - Baked! The Musical
     - Best lyrics, lead performer, supporting performer, ensemble performer at Chicago Musical Theatre Festival 2020
     - 2020 NYMF Finalist
     - 2020 RAVE Selection
     - 2022 Eugene O'Neill NMTC Semi-Finalist
-
 - House of India
     - Semi-Finalist at the Bay Area Playwrights Festival
 
