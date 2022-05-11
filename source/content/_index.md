@@ -34,6 +34,7 @@ Berkeley, CA.
 - <a href="https://kumarde.com/scripts/brown.pdf" target="_blank"> BROWN (Sitcom Pilot) </a>
 
 <h3> AWARDS </h3>
+- MacDowell Colony Fellow 2022
 
 - Baked! The Musical
     - Best lyrics, lead performer, supporting performer, ensemble performer at Chicago Musical Theatre Festival 2020
