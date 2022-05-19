@@ -43,6 +43,7 @@ in Berkeley, CA.
     - 2020 RAVE Selection
     - 2022 Eugene O'Neill NMTC Semi-Finalist
 - House of India
-    - Semi-Finalist at the Bay Area Playwrights Festival
+    - Selection, Eugene O'Neill National Playwrights Conference 2022
+    - Semi-Finalist, Bay Area Playwrights Festival 2022
 
 If you've come looking for my <b>academic computing research</b>, go <a href="https://kumarde.com" target="_blank">here.</a>
