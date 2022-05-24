@@ -38,10 +38,10 @@ in Berkeley, CA.
 
 - MacDowell Colony Fellow 2022
 - Baked! The Musical
+    - 2022 Eugene O'Neill NMTC Semi-Finalist
     - Best lyrics, lead performer, supporting performer, ensemble performer at Chicago Musical Theatre Festival 2020
     - 2020 NYMF Finalist
     - 2020 RAVE Selection
-    - 2022 Eugene O'Neill NMTC Semi-Finalist
 - House of India
     - Selection, Eugene O'Neill National Playwrights Conference 2022
     - Semi-Finalist, Bay Area Playwrights Festival 2022
