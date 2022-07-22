@@ -14,13 +14,15 @@ National Asian American Theatre Company (NAATCO), Musical Theatre Factory, and
 PACE University in NYC, Faultline Theatre in San Francisco, and Shotgun Players
 in Berkeley, CA.
 
+You can reach me via email: debug12@gmail.com
+
 <br>
 
 <h3> FULL-LENGTH SHOWS </h3>
 
 - <a href="https://bakedthemusical.com" target="_blank">Baked! The Musical</a>
 - <a href="https://newplayexchange.org/plays/1586609/house-india" target="_blank">House of India</a>
-- Again? (new musical, in-development)
+- Thoughtspace (new musical, in-development)
 
 <h3> SHORTER SHOWS </h3>
 
