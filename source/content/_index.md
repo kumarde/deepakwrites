@@ -40,11 +40,11 @@ You can reach me via email: debug12@gmail.com
 
 - MacDowell Colony Fellow 2022
 - Baked! The Musical
-    - 2022 NAMT Festival of New Musicals Selection
-    - 2022 Eugene O'Neill NMTC Semi-Finalist
+    - Selection, 2022 NAMT Festival of New Musicals 
+    - Semi-Finalist, 2022 Eugene O'Neill NMTC
     - Best lyrics, lead performer, supporting performer, ensemble performer at Chicago Musical Theatre Festival 2020
-    - 2020 NYMF Finalist
-    - 2020 RAVE Selection
+    - Selection, 2020 New York Musical Festival
+    - Selection, 2020 RAVE Festival of New Musicals 
 - House of India
     - Selection, Eugene O'Neill National Playwrights Conference 2022
     - Semi-Finalist, Bay Area Playwrights Festival 2022
