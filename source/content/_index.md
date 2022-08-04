@@ -9,10 +9,11 @@ I'm a playwright, composer, lyricist, and researcher based in the Bay Area, CA.
 My work most often deals with Asian-Americans grappling with the messiness of
 their identities as they relate to their unique American experiences. I'm also
 a technologist and am interested in building new theater experiences that mesh
-with technology. I have worked with Underscore Theatre Company in Chicago, the
-National Asian American Theatre Company (NAATCO), Musical Theatre Factory, and
-PACE University in NYC, Faultline Theatre in San Francisco, and Shotgun Players
-in Berkeley, CA.
+with technology. My work has been developed and produced with Underscore
+Theatre Company, the National Asian American Theatre Company (NAATCO), Musical
+Theatre Factory, PACE University, the O'Neill Theatre Center (NPC '22), the
+National Alliance for Musical Theatre (NAMT '22) Faultline Theatre in San
+Francisco, and Shotgun Players.
 
 You can reach me via email: debug12@gmail.com
 
