@@ -15,7 +15,6 @@ Theatre Factory, PACE University, the O'Neill Theatre Center (NPC '22), the
 National Alliance for Musical Theatre (NAMT '22) Faultline Theatre in San
 Francisco, and Shotgun Players.
 
-You can reach me via email: debug12@gmail.com
 
 <br>
 
@@ -49,5 +48,17 @@ You can reach me via email: debug12@gmail.com
 - House of India
     - Selection, Eugene O'Neill National Playwrights Conference 2022
     - Semi-Finalist, Bay Area Playwrights Festival 2022
+
+<h3> CONTACT </h3>
+
+For professional inquiries, please feel free to contact my agent:
+
+Rachel Ellicott
+<br>
+Paradigm Talent Agency
+<br>
+rellicott@paradigmagency.com
+<br>
+212.897.6400
 
 If you've come looking for my <b>academic computing research</b>, go <a href="https://kumarde.com" target="_blank">here.</a>
