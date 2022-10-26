@@ -7,13 +7,12 @@ description = "About me"
 
 I'm a playwright, composer, lyricist, and researcher based in the Bay Area, CA.
 My work most often deals with Asian-Americans grappling with the messiness of
-their identities as they relate to their unique American experiences. I'm also
-a technologist and am interested in building new theater experiences that mesh
-with technology. My work has been developed and produced with Underscore
-Theatre Company, the National Asian American Theatre Company (NAATCO), Musical
-Theatre Factory, PACE University, the O'Neill Theatre Center (NPC '22), the
-National Alliance for Musical Theatre (NAMT '22) Faultline Theatre in San
-Francisco, and Shotgun Players.
+their identities. I'm also a technologist and am interested in building new
+theater experiences that mesh with technology. My work has been developed and
+produced with Underscore Theatre Company, the National Asian American Theatre
+Company (NAATCO), Musical Theatre Factory, PACE University, the O'Neill Theatre
+Center (NPC '22), the National Alliance for Musical Theatre (NAMT '22)
+Faultline Theatre in San Francisco, and Shotgun Players.
 
 
 <br>
