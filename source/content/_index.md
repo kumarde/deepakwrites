@@ -5,7 +5,7 @@ description = "About me"
 
 <h2> HELLO! </h2> 
 
-I'm a playwright, composer, lyricist, and researcher based in the Bay Area, CA.
+I'm a playwright, composer, lyricist, and researcher based in Milwaukee, WI.
 My work most often deals with Asian-Americans grappling with the messiness of
 their identities. I'm also a technologist and am interested in building new
 theater experiences that mesh with technology. My work has been developed and
