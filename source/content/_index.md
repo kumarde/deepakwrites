@@ -14,6 +14,7 @@ Company (NAATCO), Musical Theatre Factory, PACE University, the O'Neill Theatre
 Center (NPC '22), the National Alliance for Musical Theatre (NAMT '22)
 Faultline Theatre in San Francisco, and Shotgun Players.
 
+I'm currently on commision by Audible Theatre and Arena Stage.
 
 <br>
 
