@@ -45,7 +45,7 @@ Faultline Theatre in San Francisco, and Shotgun Players.
     - Selection, 2020 New York Musical Festival
     - Selection, 2020 RAVE Festival of New Musicals 
 - House of India
-    – Finalist, American Blues Theatre Blue Ink Competition 2023
+    - Finalist, American Blues Theatre Blue Ink Competition 2023
     - Selection, Eugene O'Neill National Playwrights Conference 2022
     - Semi-Finalist, Bay Area Playwrights Festival 2022
 
