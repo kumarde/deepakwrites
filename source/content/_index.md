@@ -31,12 +31,6 @@ I'm currently on commision by Audible Theatre and Arena Stage.
 - <a href="https://newplayexchange.org/plays/879662/crush" target="_blank">Crush</a>
 - Playing Ourselves, 15-minute musical on commission by the <a href="https://mtf.nyc" target="_blank">Musical Theatre Factory</a>
 
-<h3> TV/FILM </h3>
-
-- <a href="https://www.youtube.com/watch?v=WIfOAzYZO8Q" target="_blank">Central Student Government (Webseries Pilot) </a>
-- <a href="https://kumarde.com/scripts/the_order.pdf" target="_blank"> The Order (Sitcom Pilot) </a>
-- <a href="https://kumarde.com/scripts/brown.pdf" target="_blank"> BROWN (Sitcom Pilot) </a>
-
 <h3> AWARDS </h3>
 
 - MacDowell Colony Fellow 2022
