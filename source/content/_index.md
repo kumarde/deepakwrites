@@ -23,7 +23,7 @@ I'm currently on commision by Audible Theatre and Arena Stage.
 - <a href="https://bakedthemusical.com" target="_blank">Baked! The Musical</a>
 - <a href="https://newplayexchange.org/plays/1586609/house-india" target="_blank">House of India</a>
 - <a href="https://newplayexchange.org/plays/3053931/stories-mother-tongues" target="_blank">Stories in Mother Tongues</a>
-- Thoughtspace (new musical, in-development)
+- Lovedeep Singh and the Deep Love Singers (new musical, in-development)
 
 <h3> SHORTER SHOWS </h3>
 
