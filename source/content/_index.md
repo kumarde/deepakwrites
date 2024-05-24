@@ -4,18 +4,17 @@ description = "About me"
 +++
 
 <h2> HELLO! </h2> 
+I'm a playwright, composer, lyricist, and researcher based in San Diego, CA.  I
+write about the questions that keep me up at night, whether they be about
+Asianness, technology, youth, board games, or soul-eating demons.  I'm also a
+<a href="https://kumarde.com" target="_blank"> professor in Computer Science</a>, and this very much informs my
+writing practice.  My work has been developed and produced all over, with some
+highlights including the Eugene O'Neill Theatre Center (NPC '22), the National
+Alliance for Musical Theatre (NAMT '22), Theo, Village Theatre, and Prospect
+Theatre Company.
 
-I'm a playwright, composer, lyricist, and researcher based in Milwaukee, WI.
-My work most often deals with Asian-Americans grappling with the messiness of
-their identities. I'm also a technologist and am interested in building new
-theater experiences that mesh with technology. My work has been developed and
-produced with Underscore Theatre Company, the National Asian American Theatre
-Company (NAATCO), Musical Theatre Factory, PACE University, the O'Neill Theatre
-Center (NPC '22), the National Alliance for Musical Theatre (NAMT '22)
-Faultline Theatre in San Francisco, and Shotgun Players.
-
-I'm currently on commision by Audible Theatre and Arena Stage.
-
+I'm a MacDowell Colony fellow and I'm currently on commision by Audible Theatre
+and Arena Stage.
 <br>
 
 <h3> FULL-LENGTH SHOWS </h3>
