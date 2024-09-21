@@ -9,9 +9,9 @@ write about the questions that keep me up at night, whether they be about
 Asianness, technology, youth, board games, or soul-eating demons.  I'm also a
 <a href="https://kumarde.com" target="_blank"> professor in Computer Science</a>, and this very much informs my
 writing practice.  My work has been developed and produced all over, with some
-highlights including the Eugene O'Neill Theatre Center (NPC '22), the National
+highlights including The Old Globe, the Eugene O'Neill Theatre Center (NPC '22), the National
 Alliance for Musical Theatre (NAMT '22), Theo, Village Theatre, and Prospect
-Theatre Company.
+Musicals.
 
 I'm a MacDowell Colony fellow and I'm currently on commision by Audible Theatre
 and Arena Stage.
@@ -31,9 +31,16 @@ and Arena Stage.
 - <a href="https://newplayexchange.org/plays/879662/crush" target="_blank">Crush</a>
 - Playing Ourselves, 15-minute musical on commission by the <a href="https://mtf.nyc" target="_blank">Musical Theatre Factory</a>
 
+<h3> PRODUCTIONS </h3>
+
+- House of India
+    - World Premiere Production. <a href="https://www.theoldglobe.org/" target="_blank"> The Old Globe.</a> San Diego, CA. May 2025. 
+- Baked! The Musical
+    - Developmental Production. <a href="https://theo-u.com/" target="_blank">Theo</a>. Evanston, IL. Sept 2023.
+
 <h3> AWARDS </h3>
 
-- MacDowell Colony Fellow 2022
+- MacDowell Colony Fellow 2023
 - Baked! The Musical
     - Selection, 2022 NAMT Festival of New Musicals 
     - Semi-Finalist, 2022 Eugene O'Neill NMTC
