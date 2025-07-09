@@ -48,9 +48,13 @@ and Arena Stage.
     - Selection, 2020 New York Musical Festival
     - Selection, 2020 RAVE Festival of New Musicals 
 - House of India
+    - Semi-Finalist, Bay Area Playwrights Festival 2022
     - Finalist, American Blues Theatre Blue Ink Competition 2023
     - Selection, Eugene O'Neill National Playwrights Conference 2022
-    - Semi-Finalist, Bay Area Playwrights Festival 2022
+- Stories in Mother Tongues
+    - Semi-finalist, Eugene O'Neill National Playwrights Conference 2025
+    - Finalist, Bay Area Playwrights Festival 2025
+    - Selection, Ojai Playwrights Conference 2025
 
 <h3> CONTACT </h3>
 
