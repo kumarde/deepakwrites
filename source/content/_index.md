@@ -22,7 +22,7 @@ and Arena Stage.
 - <a href="https://bakedthemusical.com" target="_blank">Baked! The Musical</a>
 - <a href="https://newplayexchange.org/plays/1586609/house-india" target="_blank">House of India</a>
 - <a href="https://newplayexchange.org/plays/3053931/stories-mother-tongues" target="_blank">Stories in Mother Tongues</a>
-- Advanced Persistent Teenagers (on commission from Audible)
+- <a href-"https://newplayexchange.org/script/3221669/advanced-persistent-teenagers" target="_blank">Advanced Persistent Teenagers (a commission from Audible)</a>
 - Tracking (new musical, in-development, with Jord Liu)
 
 <h3> SHORTER SHOWS </h3>
