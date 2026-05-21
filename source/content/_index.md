@@ -13,8 +13,8 @@ highlights including The Old Globe, the Eugene O'Neill Theatre Center (NPC '22),
 Alliance for Musical Theatre (NAMT '22), Theo, Village Theatre, and Prospect
 Musicals.
 
-I'm a MacDowell Colony fellow and I'm currently on commision by Audible Theatre
-and Arena Stage.
+I'm a MacDowell Colony fellow and I'm currently on commision by Arena Stage and
+The Old Globe.
 <br>
 
 <h3> FULL-LENGTH SHOWS </h3>
