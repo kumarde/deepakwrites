@@ -55,6 +55,10 @@ The Old Globe.
     - Semi-finalist, Eugene O'Neill National Playwrights Conference 2025
     - Finalist, Bay Area Playwrights Festival 2025
     - Selection, Ojai Playwrights Conference 2025
+- Advanced Persistent Teenagers
+    - Finalist, Eugene O'Neill National Playwrights Conference 2026
+    - Selection, Pacific Playwrights Festival, South Coast Repertory Theatre,
+      2026
 
 <h3> CONTACT </h3>
 
