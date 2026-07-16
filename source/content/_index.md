@@ -38,7 +38,7 @@ The Old Globe.
 - Baked! The Musical
     - Developmental Production. <a href="https://theo-u.com/" target="_blank">Theo</a>. Evanston, IL. Sept 2023.
 
-<h3> AWARDS </h3>
+<h3> AWARDS and DEVELOPMENT </h3>
 
 - MacDowell Colony Fellow 2023
 - Baked! The Musical
@@ -55,6 +55,7 @@ The Old Globe.
     - Semi-finalist, Eugene O'Neill National Playwrights Conference 2025
     - Finalist, Bay Area Playwrights Festival 2025
     - Selection, Ojai Playwrights Conference 2025
+    - Reading, Boston Court Writers Group 2026
 - Advanced Persistent Teenagers
     - Finalist, Eugene O'Neill National Playwrights Conference 2026
     - Selection, Pacific Playwrights Festival, South Coast Repertory Theatre,
